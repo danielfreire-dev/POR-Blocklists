@@ -1,0 +1,24 @@
+! https://www.pcdiga.com
+www.pcdiga.com##.md\:block.hidden > .related-prods.custom-swiper
+
+! https://www.kuantokusta.pt
+www.kuantokusta.pt##.c-bmlUw.c-gYBZre
+
+! https://www3.pobre.wtf
+www3.pobre.wtf##.generalModal
+||mediaf.media^
+pobre.*##+js(abort-on-stack-trace, eval, build.js)
+pobre.*##+js(addEventListener-defuser, contextmenu, preventDefault)
+pobre.*##+js(addEventListener-defuser, , blockFuckingEverything)
+pobre.wtf##+js(set-constant, ads, false)
+pobre.wtf##+js(set-constant, adBlockerActive, false)
+pobre.*##+js(aeld, contextmenu, preventDefault)
+pobre.tv##+js(aeld, contextmenu)
+pobre.tv##+js(aeld, , keyCode)
+
+! https://www.kuantokusta.pt
+||creatives.sascdn.com/diff/1701/11182905/300X600_c9d63615-1625-46aa-b906-fa7945cc4421.gif$image
+www.kuantokusta.pt##.advertise-mrec > .advertise-mrec
+www.kuantokusta.pt##.advertise-filter-mrec.col-sm-75.col-md-75.col-lg-75 > .advertise-mrec
+www.kuantokusta.pt##.advertise-filter-mrec.col-sm-75.col-md-75.col-lg-75
+
