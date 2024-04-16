@@ -21,4 +21,9 @@ pobre.tv##+js(aeld, , keyCode)
 www.kuantokusta.pt##.advertise-mrec > .advertise-mrec
 www.kuantokusta.pt##.advertise-filter-mrec.col-sm-75.col-md-75.col-lg-75 > .advertise-mrec
 www.kuantokusta.pt##.advertise-filter-mrec.col-sm-75.col-md-75.col-lg-75
+www.kuantokusta.pt##.c-haOSlH-czsSGP-right-true.c-haOSlH
+www.kuantokusta.pt##.c-haOSlH-cezigA-left-true.c-haOSlH
 
+! https://pplware.sapo.pt
+||pplware.sapo.pt/parceiros/$image
+pplware.sapo.pt###\#sidepub
